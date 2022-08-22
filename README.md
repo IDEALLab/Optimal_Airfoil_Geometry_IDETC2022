@@ -1,4 +1,4 @@
-Machine learning models and 2D airfoil dimensionality reduction code associated with our accepted IDETC 2022 paper: "Effect of Optimal Geometries and Performance Parameters on Airfoil Latent Space Dimension." Paper is accessible via https://ideal.umd.edu/papers/paper/idetc-vansloot-optimized-geomerty-airfoil 
+Machine learning models and 2D airfoil dimensionality reduction code associated with our accepted IDETC 2022 paper: "Effect of Optimal Geometries and Performance Parameters on Airfoil Latent Space Dimension." Paper is accessible via: https://ideal.umd.edu/papers/paper/idetc-vansloot-optimized-geomerty-airfoil 
 
 
 # Notebooks
