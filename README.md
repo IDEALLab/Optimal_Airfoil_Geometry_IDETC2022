@@ -39,3 +39,6 @@ Machine learning models and 2D airfoil dimensionality reduction code associated 
 - The optimized angle of attack of each optimized airfoil
 ### inp_paras.npy
 - The input boundary conditions (Mach number, Reynolds number, and target lift coefficient) to the SU2 adjoint optimizer used to create airfoils_opt
+
+# Note
+Training and testing data frames output from autoencoder models were too large to upload to github directly. These files can be accessed through https://drive.google.com/drive/folders/18FP8GZM1-1ZmK6rE5tW4OFlhb2tw5In0?usp=sharing rather than via /data/generated
